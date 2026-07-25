@@ -52,8 +52,6 @@ cd client
 npm start
 ```
 
-## Course Info
-Built for [Course Name] at [University], Fall 2026.
 
 ## Author
 Adithya-P-Vishwamitra
